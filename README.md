@@ -1,6 +1,6 @@
 <!-- 🔥 Profile Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Logu%20%7C%20Data%20Analyst&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Loganathan%20%7C%20Data%20Analyst&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
@@ -33,15 +33,15 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 ## 📈 GitHub Analytics (Animated Stats)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LoganathanAnalyst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoganathanAnalyst&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganathanAnalyst&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-> 🔧 **Replace `LoganathanAnalyst` with your actual GitHub username**
+
 
 ---
 
@@ -60,6 +60,6 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=70&section=footer" />
 </p>
 
