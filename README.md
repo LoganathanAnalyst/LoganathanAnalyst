@@ -36,7 +36,6 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=LoganathanAnalyst&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/LoganathanAnalyst/LoganathanAnalyst/main/github-metrics.svg" />
 </p>
