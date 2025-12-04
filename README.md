@@ -32,21 +32,11 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 
 ## 📈 GitHub Analytics (Animated Stats)
 
-## 📈 GitHub Analytics (Always Working)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoganathanAnalyst&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://streak-stats.demolab.com/?user=LoganathanAnalyst&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoganathanAnalyst&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoganathanAnalyst&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganathanAnalyst&theme=tokyonight" />
-</p>
 
 
 ---
