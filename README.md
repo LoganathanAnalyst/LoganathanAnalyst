@@ -1,6 +1,6 @@
 <!-- 🔥 Minimal Profile Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=60&section=header&text=Loganathan%20B%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Loganathan%20B%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
