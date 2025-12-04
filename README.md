@@ -36,10 +36,8 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganathanAnalyst&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
 </p>
-
-
 
 
 
