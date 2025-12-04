@@ -41,14 +41,14 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-> 🔧 **Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username**
+> 🔧 **Replace `LoganathanAnalyst` with your actual GitHub username**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/LoganathanAnalyst">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/">
