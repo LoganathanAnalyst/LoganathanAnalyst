@@ -62,7 +62,17 @@ To become a **skilled BI/Data Analyst** who uses data to solve real business pro
   <a href="https://www.linkedin.com/in/loganathan-b-b7b3ba393/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <p align="center">
+  <a href="https://www.instagram.com/data_analystbi?igsh=djRldW9pcnM5dnQ1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+    <p align="center">
+  <a href="https://x.com/logutha45?t=OCTLzFgdZg_3j7eMs9iZJQ&s=09">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a
 </p>
+
+
 ---
 
 <!-- 🌈 Minimal Footer Banner -->
