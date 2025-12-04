@@ -1,20 +1,20 @@
-<!-- 🔥 Profile Header Banner -->
+<!-- 🔥 Minimal Profile Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Loganathan%20%7C%20Data%20Analyst&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=header&text=Loganathan%20B%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-I’m a **Data-driven Analyst** with **1 year of experience** converting data into meaningful insights that support business decisions.  
-I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data, create models, and automate workflows.
+I’m a **Data-driven Analyst** with **1 year of experience** turning raw data into powerful business insights.  
+I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data, model datasets, and automate workflows.
 
-✨ Passionate about:  
+✨ Passionate about  
 - Data storytelling & visualization  
-- Building efficient ETL pipelines  
-- Analyzing patterns across sales, operations & business performance  
-- Turning complex datasets into simple insights  
+- ETL & automation workflows  
+- Business performance analysis  
+- Simplifying complex data into clear insights  
 
 ---
 
@@ -41,8 +41,6 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganathanAnalyst&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ---
 
 ## 🌐 Connect with Me
@@ -51,15 +49,14 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
   <a href="https://github.com/LoganathanAnalyst">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/">
+  <a href="https://www.linkedin.com/in/loganathan-b-b7b3ba393/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Footer Banner -->
+<!-- 🌈 Minimal Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=70&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=110&section=footer" />
 </p>
-
