@@ -4,15 +4,29 @@
 </p>
 ---
 ## 💫 About Me
+I’m a **Data Analyst** with **1 year of hands-on experience** turning raw data into meaningful, actionable insights.  
+My work focuses on building dynamic dashboards, optimizing data pipelines, and uncovering patterns that support
+business growth and decision-making.
 
-I’m a **Data-driven Analyst** with **1 year of experience** turning raw data into powerful business insights.  
-I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data, model datasets, and automate workflows.
+ I bring analytical thinking, problem-solving, and structured 
+approaches to every project. I enjoy transforming complex datasets into clear stories through visualization and 
+data modeling.
 
-✨ Passionate about  
-- Data storytelling & visualization  
-- ETL & automation workflows  
-- Business performance analysis  
-- Simplifying complex data into clear insights  
+✨ What I’m Good At  
+- Turning messy datasets into clean, usable data  
+- Building insightful dashboards using **Power BI & Excel**  
+- Writing efficient queries and automating workflows using **SQL & Python**  
+- Identifying trends across sales, operations, and performance metrics  
+- Presenting insights in a simple, understandable way  
+
+🎯 What I’m Currently Working On  
+- Improving my skills in **data engineering & ETL pipelines**  
+- Building end-to-end projects for my GitHub portfolio  
+- Learning **advanced DAX, SQL optimization & Python automation**  
+
+📌 My goal:  
+To become a **skilled BI/Data Analyst** who uses data to solve real business problems and create impact.
+ 
 
 ---
 
@@ -37,9 +51,7 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
 </p>
 --
-
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="https://github.com/LoganathanAnalyst">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -48,7 +60,6 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <!-- 🌈 Minimal Footer Banner -->
