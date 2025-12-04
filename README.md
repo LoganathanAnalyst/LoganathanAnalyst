@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Loganathan%20B%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
-
 ---
-
 ## 💫 About Me
 
 I’m a **Data-driven Analyst** with **1 year of experience** turning raw data into powerful business insights.  
@@ -38,10 +36,7 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
 </p>
-
-
-
----
+--
 
 ## 🌐 Connect with Me
 
