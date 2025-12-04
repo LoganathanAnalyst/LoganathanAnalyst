@@ -32,14 +32,22 @@ I work with **SQL, Python, Power BI, and Excel** to build dashboards, clean data
 
 ## 📈 GitHub Analytics (Animated Stats)
 
+## 📈 GitHub Analytics (Always Working)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LoganathanAnalyst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoganathanAnalyst&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoganathanAnalyst&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganathanAnalyst&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoganathanAnalyst&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoganathanAnalyst&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoganathanAnalyst&theme=tokyonight" />
+</p>
+
 
 ---
 
