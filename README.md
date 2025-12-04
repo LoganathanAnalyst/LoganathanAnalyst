@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Loganathan%20B%20%7C%20Data%20Analyst&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
+
 ---
-## 💫 About Me
+##  💫 About Me
 I’m a **Data Analyst** with **1 year of hands-on experience** turning raw data into meaningful, actionable insights.  
 My work focuses on building dynamic dashboards, optimizing data pipelines, and uncovering patterns that support
 business growth and decision-making.
@@ -50,7 +51,9 @@ To become a **skilled BI/Data Analyst** who uses data to solve real business pro
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoganathanAnalyst&theme=tokyonight" />
 </p>
+
 --
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/LoganathanAnalyst">
