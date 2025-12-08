@@ -13,7 +13,7 @@ business growth and decision-making.
 approaches to every project. I enjoy transforming complex datasets into clear stories through visualization and 
 data modeling.
 
-✨ What I’m Good At  
+✨ What I’m Good At 
 - Turning messy datasets into clean, usable data  
 - Building insightful dashboards using **Power BI & Excel**  
 - Writing efficient queries and automating workflows using **SQL & Python**  
