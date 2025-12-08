@@ -18,8 +18,8 @@ data modeling.
 - Building insightful dashboards using **Power BI & Excel**  
 - Writing efficient queries and automating workflows using **SQL & Python**  
 - Identifying trends across sales, operations, and performance metrics  
-- Presenting insights in a simple, understandable way  
-
+- Presenting insights in a simple, understandable way
+  
 🎯 What I’m Currently Working On  
 - Improving my skills in **data engineering & ETL pipelines**  
 - Building end-to-end projects for my GitHub portfolio  
