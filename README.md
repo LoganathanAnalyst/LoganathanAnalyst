@@ -77,5 +77,5 @@ To become a **skilled BI/Data Analyst** who uses data to solve real business pro
 
 <!-- 🌈 Minimal Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=80&section=footer" />
 </p>
