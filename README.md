@@ -16,7 +16,7 @@ data modeling.
 ✨ What I’m Good At 
 - Turning messy datasets into clean, usable data  
 - Building insightful dashboards using **Power BI & Excel**  
-- Writing efficient queries and automating workflows using **SQL & Python**  
+- Writing efficient queries and automating workflows using **SQL & Python**   
 - Identifying trends across sales, operations, and performance metrics  
 - Presenting insights in a simple, understandable way
   
