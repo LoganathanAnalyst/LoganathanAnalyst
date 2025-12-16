@@ -7,7 +7,7 @@
 ##  💫 About Me       
 I’m a **Data Analyst** with **1 year of hands-on experience** turning raw data into meaningful, actionable insights.  
 My work focuses on building dynamic dashboards, optimizing data pipelines, and uncovering patterns that support
-business growth and decision-making.
+business growth and decision-making. 
  
  I bring analytical thinking, problem-solving, and structured 
 approaches to every project. I enjoy transforming complex datasets into clear stories through visualization and 
