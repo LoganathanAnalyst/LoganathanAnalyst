@@ -4,7 +4,7 @@
 </p>
 
 ---
-##  💫 About Me       
+##  💫 About Me        
 I’m a **Data Analyst** with **1 year of hands-on experience** turning raw data into meaningful, actionable insights.  
 My work focuses on building dynamic dashboards, optimizing data pipelines, and uncovering patterns that support
 business growth and decision-making. 
