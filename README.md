@@ -22,7 +22,7 @@ data modeling.
   
 🎯 What I’m Currently Working On  
 - Improving my skills in **data engineering & ETL pipelines**  
-- Building end-to-end projects for my GitHub portfolio  
+- Building end-to-end projects for my GitHub portfolio   
 - Learning **advanced DAX, SQL optimization & Python automation**  
 
 📌 My goal:  
